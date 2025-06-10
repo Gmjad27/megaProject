@@ -1,0 +1,23 @@
+python-dotenv~=1.1.0
+groq~=0.22.0
+AppOpener~=1.7
+pywhatkit~=5.4
+bs4~=0.0.2
+pillow~=11.2.1
+rich~=14.0.0
+requests~=2.32.3
+keyboard~=0.13.5
+cohere~=5.15.0
+googlesearch-python
+selenium
+mtranslate
+pygame~=2.6.1
+edge-tts
+PyQt5
+webdriver-manager
+eel~=0.18.1
+# speech_recognition
+sqlite3
+beautifulsoup4~=4.13.4
+# SpeechRecognition~=3.14.2
+elevenlabs~=0.3.0b0
